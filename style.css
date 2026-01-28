@@ -148,3 +148,39 @@ nav{
     margin: 0;
     color: rgba(14, 14, 14, 0.6);
 }
+/* news section styles */
+.news-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.news-description{
+    color: rgba(14, 14, 14, 0.7);
+}
+.satelight{
+    display: flex;
+    gap: 30px;
+    box-shadow: 2px 2px 2px 2px gray;
+    padding: 45px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+}
+.satelight-img img{
+    border-radius: 20px;
+}
+.satelite-btn{
+    background-color: #006A50;
+    padding: 10px 20px;
+    color:white;
+    border-radius: 8px;
+}
+.satelite-1{
+    display: flex;
+    gap: 30px;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 20px;
+    padding: 40px 50px;
+    align-items: center;
+}
+.satelite-1 img{
+    border-radius: 20px;
+}
